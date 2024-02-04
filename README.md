@@ -13,9 +13,10 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning Frontend development and DevOps
-- 🔭 I’m currently working on databases
+- 🌱 Learning all things Full Stack Development and DevOps Engineering
+- 🔭 Working on databases right now!
 - 💬 Ask me about my Founders and Coders Bootcamp
+- 👀 Checkout my latest Project: [Travel Mashup](https://github.com/fac29b/feargh-james-travel-mashup)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fearghalkavanagh/)
 
 <!--
