@@ -17,7 +17,7 @@
 - 🔭 Working on databases right now!
 - 💬 Ask me about my Founders and Coders Bootcamp
 - 👀 Checkout my latest Project: [Travel Mashup](https://github.com/fac29b/feargh-james-travel-mashup)
-- 🎒 I did a BSc(Hons) in Optometry in Dublin and now hoping to transition into software development
+- 🎒 I did a BSc(Hons) in Optometry in Dublin and now transitioning into software development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fearghalkavanagh/)
 
 <!--
