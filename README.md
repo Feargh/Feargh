@@ -14,10 +14,10 @@
 ### Hi there 👋
 
 - 🌱 Learning all things Full Stack Development and DevOps Engineering
-- 🔭 Working on databases right now!
+- 🔭 Working through [Execute Program](https://www.executeprogram.com/) at present, finishing up the javascript modules and just started typescript! 
 - 💬 Ask me about my Founders and Coders Bootcamp
 - 👀 Checkout my latest Project: [Travel Mashup](https://github.com/fac29b/feargh-james-travel-mashup)
-- 🎒 I did a BSc(Hons) in Optometry in Dublin and now transitioning into software development.
+- 🎒 I have a BSc(Hons) in Optometry from [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/optometry-tu871/?courseSubjects=Sciences%20%26%20Health&keywords=&courseType=) and now transitioning into software development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fearghalkavanagh/)
 
 <!--
