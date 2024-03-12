@@ -14,7 +14,7 @@
 ### Hi there 👋
 
 - 🌱 Learning all things Full Stack Development and DevOps Engineering
-- 🔭 Working through Learn React on [Scimba](https://scrimba.com/learn/learnreact) at present, will be starting to start learning about .net and C#, next.
+- 🔭 Working through Learn React on [Scimba](https://scrimba.com/learn/learnreact) at present, will be starting to start learning about .net and C# next.
 - 💬 Ask me about my Founders and Coders Bootcamp
 - 👀 Checkout my latest Project: [Travel Mashup](https://github.com/fac29b/feargh-james-travel-mashup)
 - 🎒 I have a BSc(Hons) in Optometry from [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/optometry-tu871/?courseSubjects=Sciences%20%26%20Health&keywords=&courseType=) and now transitioning into software development.
